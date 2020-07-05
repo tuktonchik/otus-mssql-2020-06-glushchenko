@@ -1,1 +1,2 @@
-# otus-mssql-2020-06-glushchenko
+Домашние задания курса OTUS "MS SQL Server разработчик".
+Группа 2020-06.
